@@ -1,7 +1,7 @@
-package NguyenNhatKhang.bai36.Validator;
+package NguyenNhatKhang.bai36.validator;
 
 import NguyenNhatKhang.bai36.entity.Category;
-import NguyenNhatKhang.bai36.Validator.annotation.ValidCategoryId;
+import NguyenNhatKhang.bai36.validator.annotation.ValidCategoryId;
 import jakarta.validation.ConstraintValidator;
 import jakarta.validation.ConstraintValidatorContext;
 
